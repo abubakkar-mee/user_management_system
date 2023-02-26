@@ -1,0 +1,11 @@
+
+.header_area{
+    display:flex;
+    justify-content:center;
+    background-color:aquamarine;
+    position:sticky;
+    top:0;
+    margin-bottom:20px;
+}
+
+

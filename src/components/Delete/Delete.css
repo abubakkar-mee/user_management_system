@@ -1,0 +1,17 @@
+.delete_area{
+    display:flex;
+    justify-content:center;
+    background-color:aquamarine;
+    width:40%;
+    margin:auto;
+    padding:10px 0px 60px 0px;
+    border-radius:8px;
+}
+.delete_action{
+    display:flex;
+    justify-content:center;
+}
+.cancel_button{
+    background-color:aliceblue;
+    margin-right:12px;
+}
